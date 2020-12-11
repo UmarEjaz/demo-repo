@@ -15,6 +15,3 @@ These lines were added using main branch
 These lines were added using feature-readme-instructions branch
 
 blablablaaddedfromfeature
-blablablaaddedfromfeature
-blablablaaddedfrommain
-blablablaaddedfrommain2
