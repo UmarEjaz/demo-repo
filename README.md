@@ -16,4 +16,4 @@ These lines were added using feature-readme-instructions branch
 
 blablablaaddedfrommain
 
-These lines were added from feature-readme-instructions branch to test conflicts
+These lines were added from main branch to test conflicts
