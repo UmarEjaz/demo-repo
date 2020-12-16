@@ -13,3 +13,5 @@ These lines were added using main branch
 ## Added using feature-readme-instructions branch
 
 These lines were added using feature-readme-instructions branch
+
+## Added 1st line to test git reset
